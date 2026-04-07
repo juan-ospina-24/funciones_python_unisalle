@@ -1,0 +1,10 @@
+--Definición funciones--
+sum: sirve para  calcular la suma de datos numéricos.
+min:para encontrar el valor más pequeño dentro de un (como una lista, tupla o conjunto)
+max:sirve para encontrar el valor más alto o el elemento máximo en un (como listas, tuplas o conjuntos)
+append: se utiliza para añadir un elemento al final de una lista existente.
+items:sirve para obtener una vista de todos los pares clave-valor, devolviéndolos como tuplas dentro de un objeto
+float:convierte un valor entero en un número decimal, permitiendo no solo ver el entero.
+values: Se utiliza en diccionarios para devolver una vista de todos los valores almacenados en el mismo
+get: se utiliza para obtener el valor de una clave específica de forma segura
+
